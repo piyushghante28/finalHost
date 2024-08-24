@@ -101,7 +101,7 @@ def handle_navigation():
         st.session_state.user_id = None
         st.success("You have logged out successfully!")
         sleep(0.5)
-        st.experimental_rerun()
+        st.rerun()
 
 
 
