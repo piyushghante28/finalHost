@@ -80,7 +80,7 @@ def handle_navigation():
             if files:
                 for file_name, ipfs_link, encryption_key in files:
                     st.write(f"**File Name:** {file_name}")
-                    st.write(f"**IPFS Link:** [Link]({ipfs_link})")
+                    st.write(f"**IPFS Link:** {ipfs_link}")
                     st.write(f"**Key :** {encryption_key}")
                     st.markdown("---")
             else:
