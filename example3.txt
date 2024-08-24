@@ -1,0 +1,30 @@
+1. Wael Farag and Zakaria Saleh, "Behavior Cloning for Autonomous Driving using Convolutional Neural Networks", pp. 1-7, 2018.
+
+2. Xing, Yang Chen, Jingda Wu, Lv Hung and Zhiyu, "Multi-Modal Sensor Fusion-Based Deep Neural Network for End-to-End Autonomous Driving With Scene Understanding", IEEE Sensors Journal., pp. 11, 2020.
+
+3. Minh-Thien Duong, Truong-Dong Do and My-Ha Le, "Self-Driving Vehicles Using Convolutional Neural Network", pp. 607-610, 2018.
+
+4. Nathan Spielberg, Matthew Brown, Nitin Kapania, John Kegelman and Gerdes, "Neural network vehicle models for high-performance automated driving. Science Robotics", vol. 4, pp. eaaw1975, 2019.
+
+5. Tanaka Mahmoud, Iori.Yaquab Ando, Okuyama Fukuchi, Kosuke Yunchi and Tomhide, "Optimizing Deep-Neural-Network-Driven Autonomous Race Car Using Image Scaling. SHS Web of Conferences", vol. 77, pp. 04002, 2020.
+
+6. B. Yang, L. Qian, C. Yuen, L, S. Leng, K. Xiong, et al., "Edge Intelligence for Autonomous Driving in 6G Wireless System: Design Challenges and Solutions", vol. 28, no. 2, pp. 40-47, 2021.
+
+7. Firoz Khan, Seifedine Yunyoung, Lakshmana Meqdad, Maytham N. Kadry and Ramasamy Nam, "Autonomous vehicles: A study of implementation and security. International Journal of Electrical and Computer Engineering", vol. 11, pp. 3013-3021, 2021.
+
+8. Andrei Aksjonov and Ville Kyrki, "Rule-Based Decision-Making System for Autonomous Vehicles", at Intersections with Mixed Traffic Environment. In 2021 IEEE International Intelligent Transportation Systems Conference (ITSC)., pp. 660-666.
+
+9. Chuan Zhang and Weihong Xu, "Neural networks: Efficient implementations and applications", pp. 1029-1032, 2017.
+
+10. M. Sadeeq Mohammed and Adnan Mohsin Abdulazeez, "Neural Networks Architectures Design and Applications: A Review", 2021.
+
+11. M. Georgiopoulos and G. Bebis, "Feed-forward neural networks", IEEE Potentials, vol. 13, no. 4, pp. 27-31, Oct. 1994.
+
+12. Murat Sazli, "A brief review of feed-forward neural networks", vol. 50, pp. 11-17, 2006.
+
+13. Jun Ding, Qian Huimin and Bin Zhou, "Activation functions and their characteristics in deep neural networks", pp. 1836-1841, 2018.
+
+14. Tomasz Szandala, "Review and Comparison of Commonly Used Activation Functions for Deep Neural Networks", 2021.
+
+15. Anidhya Sharma, Sharma Simone and Siddharth Athaiya, "ACTIVATION FUNCTIONS IN NEURAL NETWORKS. International Journal of Engineering Applied Sciences and Technology", vol. 04, pp. 310-316, 2020.
+
