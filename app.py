@@ -149,7 +149,7 @@ else:
                     st.session_state.user_id = user[0]  # Assuming user[0] contains the user_id
                     st.success("Logged in successfully!")
                     sleep(0.5)
-                    st.experimental_rerun()
+                    st.rerun()
                 else:
                     st.error("Incorrect username or password.")
 
