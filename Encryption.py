@@ -91,7 +91,7 @@ def encrypt_file_ui():
         files = {"filePath": ("encrypted_image.png", open(encrypted_image_path, "rb"), "image/png")}
         headers = {
             "accept": "application/json",
-            "X-API-Key": "sk_live_d9d9b80c-ff6a-4361-b396-39de40e3b6d7"
+            "X-API-Key": "sk_live_8886e2a5-fa3a-4adc-80d5-76e09c6ffa74"
         }
         response = requests.post(url, files=files, headers=headers)
 
