@@ -7,6 +7,7 @@ from db_utils import save_file_details
 from v3 import encrypt_file_ui
 from Decryption import decrypt_file_ui
 from navigation import make_sidebar
+import json
 
 
 # Connect to the MySQL database
@@ -80,13 +81,8 @@ def handle_navigation():
             if files:
                 for file_name, ipfs_link, encryption_key in files:
                     st.write(f"**File Name:** {file_name}")
-                    try:
-                        ipfs_link_dict = json.loads(ipfs_link)
-                        url = ipfs_link_dict.get('ipfs_storage', {}).get('ipfs_url', 'No URL found')
-                    except json.JSONDecodeError:
-                        url = 'Invalid IPFS link format'
-                    st.write(f"**IPFS Link:** [Link]({url})")
-                    #st.write(f"**IPFS Link:** {ipfs_link}")
+                    
+                    st.write(f"**IPFS Link:** {ipfs_link}")
                     st.write(f"**Key :** {encryption_key}")
                     st.markdown("---")
             else:
