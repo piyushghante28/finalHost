@@ -17,7 +17,7 @@ def make_sidebar():
         unsafe_allow_html=True
         )
         st.write("")
-        st.markdown("<h3 style='text-align: center;'>FINAL YEAR PROJECT BY <br> JANHAVI , VAISHNAVI , AVDHOOT , PHILNEHAS , PIYUSH </h3>", unsafe_allow_html=True)
+        st.markdown("<h3 style='text-align: center;'>FINAL YEAR PROJECT BY <br> JANHAVI , VAISHNAVI , AVDHOOT , PHINEHAS , PIYUSH </h3>", unsafe_allow_html=True)
 
         
 
